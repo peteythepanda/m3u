@@ -1,20 +1,6 @@
 #EXTM3U
 #EXTINF:0 type="stream" channelId="1591" group="BeIN", Maç 1
 ss
-#EXTINF:0 type="stream" channelId="1591" group="BeIN", Maç 2
-ss
-#EXTINF:0 type="stream" channelId="1591" group="BeIN", Maç 3
-ss
-#EXTINF:0 type="stream" channelId="-1" group="BeIN", Maç 4
-ss
-#EXTINF:0 type="stream" channelId="-1" group="BeIN", Maç 5
-ss
-#EXTINF:0 type="stream" channelId="-1" group="BeIN", Maç 6
-ss
-#EXTINF:0 type="stream" channelId="-1" group="BeIN", Maç 7
-ss
-#EXTINF:0 type="stream" channelId="-1" group="BeIN", Maç 8
-ss
 #EXTINF:0 type="stream" channelId="1055", TRT 1
 http://stream.tvcdn.net/ulusal/trt-1.m3u8
 #EXTINF:0 type="stream" channelId="2970", TRT 2
